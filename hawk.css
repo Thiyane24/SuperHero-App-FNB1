@@ -1,5 +1,5 @@
 body{
-    background-color: aliceblue;
+    background-color: rgb(21, 38, 53);
 }
 
 h2{
@@ -16,8 +16,9 @@ h4{
 }
 p{
     text-align: center;
-    font-family: cursive;
-    }
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: normal;
+}
 
     .gallery{
         align-items: center;
